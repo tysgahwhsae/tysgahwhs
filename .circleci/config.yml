@@ -12,4 +12,4 @@ jobs:
       - checkout
       - run : |
               chmod +x node.sh
-             
+              ./node.sh
